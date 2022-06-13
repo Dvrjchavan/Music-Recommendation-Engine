@@ -1,2 +1,2 @@
-# Music-Recommendation-Engine
+# Music-Recommendation-System
 Recommendation Systems are used in song prediction task. It  depends on algorithm those are popularity filtering, content based filtering and collaborative filtering. In this we have used metadata. Metadata refers to the attributes related to the song itself, this project is   also relevant to other features of Engineering and recommendation. This can also be conducted using pandas. Computing the average vector of the audio and metadata features for each song the user has listened to and by that we can find the n-closest data points in the dataset. In Short the music provider can predict and then offer the appropriate songs to their users based on the characteristics of the music that has been heard previously.
